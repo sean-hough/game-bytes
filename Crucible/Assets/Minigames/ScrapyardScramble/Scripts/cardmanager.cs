@@ -5,9 +5,14 @@ using UnityEngine;
 public class cardmanager : MonoBehaviour
 {
     public GameObject card;
+
     // Start is called before the first frame update
     void Start()
     {
+        Instantiate(card, transform);
+        Instantiate(card, transform);
+        Instantiate(card, transform);
+        Instantiate(card, transform);
         Instantiate(card, transform);
     }
 
