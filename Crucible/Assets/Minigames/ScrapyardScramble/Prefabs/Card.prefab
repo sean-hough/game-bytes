@@ -93,10 +93,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   card: {fileID: 11400000, guid: dcc4dbc1801524923a39a788177dd093, type: 2}
-  nameText: {fileID: 0}
-  descriptionText: {fileID: 0}
-  typetext: {fileID: 0}
-  artworkImage: {fileID: 0}
+  nameText: {fileID: 5164904310570709454}
+  descriptionText: {fileID: 1491447216664181890}
+  typeText: {fileID: 587702844109962061}
+  artworkImage: {fileID: 3038856668024700035}
 --- !u!1 &5783332608728581508
 GameObject:
   m_ObjectHideFlags: 0
